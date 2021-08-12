@@ -1,0 +1,87 @@
+body {
+  margin: 0;
+  padding: 20px;
+}
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.inp {
+  margin: 0 auto;
+  margin-bottom: 30px;
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  height: 50px;
+  border: 4px solid rgba(33, 33, 33, 0.2);
+  border-radius: 4px;
+  padding: 6px 20px;
+}
+.country-title {
+  margin: 0 auto;
+  text-align: center;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 1.36;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+.country_container {
+  display: flex;
+  justify-content: space-around;
+}
+.country_text {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 1.15;
+  letter-spacing: 0.03em;
+  margin: 0;
+  margin-bottom: 12px;
+}
+.country_text__item {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.15;
+  letter-spacing: 0.03em;
+  margin: 0;
+  margin-bottom: 12px;
+}
+.country_langlist {
+}
+.country_lang__item {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 1.15;
+  letter-spacing: 0.03em;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.country_flag {
+  width: 40%;
+}
+.country-list {
+  margin: 0, auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.country-list__item {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 1.15;
+  letter-spacing: 0.03em;
+  margin: 0;
+  margin-bottom: 12px;
+}
