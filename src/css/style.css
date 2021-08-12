@@ -57,8 +57,8 @@ body {
 }
 .country_lang__item {
   font-style: normal;
-  font-weight: bold;
-  font-size: 20px;
+  font-weight: 400;
+  font-size: 16px;
   line-height: 1.15;
   letter-spacing: 0.03em;
   margin: 0;
